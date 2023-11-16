@@ -46,7 +46,7 @@ const calculateSum = () => {
     return sum;
   };
   
-//   const result = calculateSum();
+  const result = calculateSum();
   console.log(`1 dan 10 gacha sonlar yigindisi: ${result}`);
 
 
